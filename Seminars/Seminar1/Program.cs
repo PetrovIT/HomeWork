@@ -52,6 +52,7 @@ while(current <= number)
 
 */
 
+/*
 // Задача 4. Напиши программу, которая принимает на вход трехзначное число и на выходе показывает последнюю цифру этого числа
 
 Console.Write("Input three-digit number ");
@@ -66,3 +67,4 @@ else
 {
     Console.WriteLine("Uncorrent input!");
 }
+*/
