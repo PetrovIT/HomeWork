@@ -52,7 +52,7 @@ int[] FillArray(int range)
 {
     int index = 0;
     int[] array = new int[range];
-    while (index < range -1)
+    while (index < range)
     {
         array[index] = new Random().Next(1,10);
         index++;
